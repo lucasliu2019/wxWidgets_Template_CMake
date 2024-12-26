@@ -4,6 +4,8 @@ title: wxWidgets_Template_CMake
 author: Fengyi Liu
 date: 2024-12-24
 ---
+Github: https://github.com/lucasliu2019/wxWidgets_Template_CMake
+
 This template uses VSCode for wxWidgets library in C/C++, the compilation is done using CMake.
 
 
